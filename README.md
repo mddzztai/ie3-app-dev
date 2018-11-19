@@ -2,7 +2,7 @@
 > IE3 Mobile Dev group with Kevin Lee and Kimberly Kwon (name temporary)
 
 ## Introduction
-To Priya, Cooper, Elise, and Kevin:
+To Priya, Cooper, Elise, David, and Kevin:
 
 We hope that this repository can serve as an enriching experience and thorough resource for your future programming endeavours. Refer to this README for any questions you may have - if the README fails to answer them or is unclear, let us know so we can update the documentation appropriately.
 
